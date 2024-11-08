@@ -1,0 +1,4 @@
+Issue Key,Summary,Issue Type,Priority,Status,Assignee,Reporter,Created,Updated,Due Date
+PROJ-101,Fix login bug,Bug,High,In Progress,Alice,David,2024-09-20,2024-09-23,2024-09-30
+PROJ-102,Implement user profile,Story,Medium,To Do,Bob,Eve,2024-09-21,2024-09-24,2024-10-01
+PROJ-103,Optimize database query,Task,Low,In Review,Charlie,Frank,2024-09-22,2024-09-25,2024-10-02
